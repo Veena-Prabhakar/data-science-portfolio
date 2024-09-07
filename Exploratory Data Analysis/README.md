@@ -9,26 +9,6 @@ This project demonstrates a thorough implementation of Exploratory Data Analysis
 - **Data Transformation:** Transformations such as time field manipulation and aggregation.
 - **Statistical Analysis:** Tests to compare differences in journey duration based on time or passholder type.
 
-## Project Structure
-- `Exploratory Data Analysis.ipynb`: The main Jupyter notebook containing the entire EDA process with explanations.
-- `metro.csv`: The dataset (if included, otherwise instructions to download it).
-- `requirements.txt`: List of Python dependencies required to run this notebook.
-
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/eda-bicycle-journeys.git
-    ```
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Jupyter notebook:
-    ```bash
-    jupyter notebook Exploratory\ Data\ Analysis.ipynb
-    ```
-
 ## Insights
 - **Average Duration by Time of Day:** The analysis shows that journey duration changes significantly based on the hour of the day, with peak times showing the longest durations.
 - **Passholder Type Differences:** A statistical test was conducted to determine if there is a significant difference in journey duration between different passholder types.
