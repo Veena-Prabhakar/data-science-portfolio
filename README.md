@@ -52,15 +52,6 @@ To run any of the projects, follow these steps:
     jupyter notebook
     ```
 
-## Requirements
-The following Python libraries are required:
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- scikit-learn
-- TensorFlow / PyTorch
-
 ## Conclusion
 This portfolio showcases practical applications of data science techniques, from exploratory data analysis to machine learning and deep learning models. The projects highlight the ability to handle complex datasets, draw insights, and build models for effective decision-making.
 
