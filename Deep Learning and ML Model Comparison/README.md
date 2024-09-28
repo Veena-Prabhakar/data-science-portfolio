@@ -26,22 +26,6 @@ The dataset selected for this project presents [brief description of dataset], a
 2. **[Model 2]:** Details of the second machine learning model, with justifications.
 3. **Deep Learning Model (TensorFlow/PyTorch):** A neural network architecture implemented to handle the problem.
 
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/machine-learning-model-comparison.git
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Jupyter notebook:
-    ```bash
-    jupyter notebook CSMAI21- Coursework.ipynb
-    ```
-
 ## Results
 - **Model Performance:** After evaluating each model, we found that [insert best-performing model] outperformed the others in terms of [specific metric]. 
 - **Comparison:** Detailed comparisons between the models, including pros and cons, are discussed in the notebook.
